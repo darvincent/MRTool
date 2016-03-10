@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Info>
+  <basicInfo>
+    <MRName>MRTest</MRName>
+    <RootFolder>C:\oms-bin-rehearsal</RootFolder>
+    <Date>2015-06-11</Date>
+    <StartTime>19:27:35</StartTime>
+    <EndTime>23:27:35</EndTime>
+    <Notice>a test</Notice>
+  </basicInfo>
+  <DeployTasks>
+    <task>
+      <name>D1</name>
+      <IsInPackage>Y</IsInPackage>
+      <path>feedExRate.cmd</path>
+      <sequence>1</sequence>
+      <executeDuration>10</executeDuration>
+    </task>
+  </DeployTasks>
+  <MRTasks>
+    <task>
+      <name>MR3</name>
+      <IsInPackage>Y</IsInPackage>
+      <path>feedExRate.cmd</path>
+      <port></port>
+      <startTime>18:34:11</startTime>
+      <endTime></endTime>
+      <startDuration>10</startDuration>
+      <doRestart>Y</doRestart>
+    </task>
+    <task>
+      <name>MR2</name>
+      <IsInPackage>Y</IsInPackage>
+      <path>Dds12.exe</path>
+      <port>9101</port>
+      <startTime>15:33:19</startTime>
+      <endTime>21:33:19</endTime>
+      <startDuration>5</startDuration>
+      <doRestart>Y</doRestart>
+    </task>
+    <task>
+      <name>MR1</name>
+      <IsInPackage>Y</IsInPackage>
+      <path>SSM.exe</path>
+      <port>9090</port>
+      <startTime>19:00:15</startTime>
+      <endTime>20:31:15</endTime>
+      <startDuration>10</startDuration>
+      <doRestart>Y</doRestart>
+    </task>
+  </MRTasks>
+</Info>

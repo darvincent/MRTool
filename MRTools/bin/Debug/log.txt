@@ -1,0 +1,1068 @@
+[2015-06-11 15:03:18.6850]: Program starts successfully
+[2015-06-11 15:03:18.7350]: state changed to: FinishedMRState
+[2015-06-11 15:03:29.8162]: load infoPath: C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\bin\Debug\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:09:06.2064]: Program starts successfully
+[2015-06-11 15:09:06.2064]: state changed to: FinishedMRState
+[2015-06-11 15:09:16.4974]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:11:10.0534]: Program starts successfully
+[2015-06-11 15:11:10.0734]: state changed to: FinishedMRState
+[2015-06-11 15:11:20.9854]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:12:41.2904]: Program starts successfully
+[2015-06-11 15:12:41.3224]: state changed to: FinishedMRState
+[2015-06-11 15:12:49.0234]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:15:55.7224]: Program starts successfully
+[2015-06-11 15:15:55.7634]: state changed to: FinishedMRState
+[2015-06-11 15:16:36.8604]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:24:33.7444]: Program starts successfully
+[2015-06-11 15:24:33.7844]: state changed to: FinishedMRState
+[2015-06-11 15:24:47.6444]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:25:32.9214]: Program starts successfully
+[2015-06-11 15:25:32.9434]: state changed to: FinishedMRState
+[2015-06-11 15:25:43.3154]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:26:15.3614]: Program starts successfully
+[2015-06-11 15:26:15.5264]: state changed to: FinishedMRState
+[2015-06-11 15:26:22.5214]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:29:25.3234]: Program starts successfully
+[2015-06-11 15:29:25.3514]: state changed to: FinishedMRState
+[2015-06-11 15:29:33.1164]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:29:50.6774]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 15:29:50.7694]: Deploy Task D1already loaded
+[2015-06-11 15:29:50.7694]: MR Task M1already loaded
+[2015-06-11 15:35:02.9074]: Program starts successfully
+[2015-06-11 15:35:02.9584]: state changed to: FinishedMRState
+[2015-06-11 15:35:35.3374]: Program starts successfully
+[2015-06-11 15:35:35.3514]: state changed to: FinishedMRState
+[2015-06-11 15:35:44.2234]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:38:25.6184]: Program starts successfully
+[2015-06-11 15:38:25.7524]: state changed to: FinishedMRState
+[2015-06-11 15:38:33.7234]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:38:43.7934]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 15:38:43.8734]: Deploy Task D1already loaded
+[2015-06-11 15:38:43.8734]: MR Task M1already loaded
+[2015-06-11 15:43:07.2804]: Program starts successfully
+[2015-06-11 15:43:07.3194]: state changed to: FinishedMRState
+[2015-06-11 15:43:19.3634]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:43:29.8724]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 15:44:14.6244]: Program starts successfully
+[2015-06-11 15:44:14.6244]: state changed to: FinishedMRState
+[2015-06-11 15:44:23.0394]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: 
+[2015-06-11 15:44:32.0434]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 15:48:23.3044]: Program starts successfully
+[2015-06-11 15:48:23.3044]: state changed to: FinishedMRState
+[2015-06-11 15:48:33.2044]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 15:49:08.7364]: Program starts successfully
+[2015-06-11 15:49:08.7664]: state changed to: FinishedMRState
+[2015-06-11 15:49:18.7564]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 15:49:35.4214]: Program starts successfully
+[2015-06-11 15:49:35.4494]: state changed to: FinishedMRState
+[2015-06-11 15:49:46.3054]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 15:52:14.3414]: Program starts successfully
+[2015-06-11 15:52:14.3694]: state changed to: FinishedMRState
+[2015-06-11 15:52:24.2124]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR_2015-06-11.zip
+[2015-06-11 18:25:39.0610]: Program starts successfully
+[2015-06-11 18:25:39.0610]: Program starts successfully
+[2015-06-11 18:25:39.0800]: state changed to: FinishedMRState
+[2015-06-11 18:35:50.2897]: deploy started
+[2015-06-11 18:35:50.2927]: create folder successfully, path: C:/oms-bin-rehearsal/MRTest-2015-06-11
+[2015-06-11 18:35:51.8037]: unzip MR package successfully
+[2015-06-11 18:35:52.6137]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\feedExRate.cmd
+executeFileName: feedExRate.cmd
+sequence: 1
+executeDuration: 10
+
+[2015-06-11 18:35:54.9057]: D1 Executed successfully 
+[2015-06-11 18:35:55.7157]: Create Deploy task:
+taskName: MR3
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\feedExRate.cmd
+executeFileName: feedExRate.cmd
+startTime: 18:34:11
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:35:55.8087]: Create Deploy task:
+taskName: MR2
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\Dds12.exe
+executeFileName: Dds12.exe
+startTime: 15:33:19
+endTime: 21:33:19
+port: 9101
+duration: 5
+isDoRestart: True
+
+[2015-06-11 18:35:55.8087]: Create Deploy task:
+taskName: MR1
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\autoMatch.exe
+executeFileName: autoMatch.exe
+startTime: 18:31:15
+endTime: 20:31:15
+port: 9003
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:35:56.6887]: schedule for start MR2 is expired
+[2015-06-11 18:35:56.7297]: schedule for start MR1 is expired
+[2015-06-11 18:35:56.7297]: schedule for start MR3 is expired
+[2015-06-11 18:35:56.8307]: MR1 set shut down timer at: 2015-06-11 20:31:15
+[2015-06-11 18:35:56.8307]: MR2 set shut down timer at: 2015-06-11 21:33:19
+[2015-06-11 18:35:56.8667]: deploy successfully 
+[2015-06-11 18:35:56.9947]: state changed to: DeployedState
+[2015-06-11 18:36:13.2537]: MR2 shut down successfully
+[2015-06-11 18:36:15.8007]: MR2 Executed successfully 
+[2015-06-11 18:36:16.2517]: MR1 shut down successfully
+[2015-06-11 18:36:18.1837]: MR1 Executed successfully 
+[2015-06-11 18:36:19.8317]: MR3 Executed successfully 
+[2015-06-11 18:36:19.8427]: state changed to: DoingMRState
+[2015-06-11 18:36:31.9607]: MR1 shut down successfully
+[2015-06-11 18:36:33.1737]: MR2 shut down successfully
+[2015-06-11 18:36:34.1737]: state changed to: FinishedMRState
+[2015-06-11 18:37:28.0187]: Program starts successfully
+[2015-06-11 18:37:28.0577]: Create Deploy task:
+taskName: MR3
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\feedExRate.cmd
+executeFileName: feedExRate.cmd
+startTime: 18:34:11
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:37:28.0587]: Create Deploy task:
+taskName: MR2
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\Dds12.exe
+executeFileName: Dds12.exe
+startTime: 15:33:19
+endTime: 21:33:19
+port: 9101
+duration: 5
+isDoRestart: True
+
+[2015-06-11 18:37:28.0587]: Create Deploy task:
+taskName: MR1
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\autoMatch.exe
+executeFileName: autoMatch.exe
+startTime: 18:31:15
+endTime: 20:31:15
+port: 9003
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:37:28.0597]: schedule for start MR2 is expired
+[2015-06-11 18:37:28.0597]: schedule for start MR1 is expired
+[2015-06-11 18:37:28.0597]: schedule for start MR3 is expired
+[2015-06-11 18:37:28.0607]: MR1 set shut down timer at: 2015-06-11 20:31:15
+[2015-06-11 18:37:28.0607]: MR2 set shut down timer at: 2015-06-11 21:33:19
+[2015-06-11 18:37:28.0637]: state changed to: DeployedState
+[2015-06-11 18:37:40.3717]: load infoPath: C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\bin\Debug\MRTest_2015-06-11.xml
+packagePath: C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\bin\Debug\MRTest_2015-06-11.zip
+[2015-06-11 18:39:04.1447]: MR1 shut down successfully
+[2015-06-11 18:39:05.3827]: MR2 shut down successfully
+[2015-06-11 18:39:06.3907]: deploy started
+[2015-06-11 18:39:06.3907]: create folder successfully, path: C:/oms-bin-rehearsal/MRTest-2015-06-11
+[2015-06-11 18:39:06.4897]: unzip MR package successfully
+[2015-06-11 18:39:06.4937]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\feedExRate.cmd
+executeFileName: feedExRate.cmd
+sequence: 1
+executeDuration: 10
+
+[2015-06-11 18:39:06.8087]: D1 Executed successfully 
+[2015-06-11 18:39:06.8197]: Create Deploy task:
+taskName: MR3
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\feedExRate.cmd
+executeFileName: feedExRate.cmd
+startTime: 18:34:11
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:39:06.8197]: Create Deploy task:
+taskName: MR2
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\Dds12.exe
+executeFileName: Dds12.exe
+startTime: 15:33:19
+endTime: 21:33:19
+port: 9101
+duration: 5
+isDoRestart: True
+
+[2015-06-11 18:39:06.8197]: Create Deploy task:
+taskName: MR1
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\SSM.exe
+executeFileName: SSM.exe
+startTime: 19:00:15
+endTime: 20:31:15
+port: 9090
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:39:06.8197]: schedule for start MR2 is expired
+[2015-06-11 18:39:06.8197]: schedule for start MR3 is expired
+[2015-06-11 18:39:06.8197]: MR1 set start up timer at: 2015-06-11 19:00:15
+[2015-06-11 18:39:06.8197]: MR1 set shut down timer at: 2015-06-11 20:31:15
+[2015-06-11 18:39:06.8207]: MR2 set shut down timer at: 2015-06-11 21:33:19
+[2015-06-11 18:39:06.8267]: deploy successfully 
+[2015-06-11 18:39:06.8367]: state changed to: DeployedState
+[2015-06-11 18:39:13.3377]: MR2 shut down successfully
+[2015-06-11 18:39:14.5447]: MR2 Executed successfully 
+[2015-06-11 18:39:15.9567]: MR3 Executed successfully 
+[2015-06-11 18:39:15.9667]: state changed to: DeployedState
+[2015-06-11 18:41:20.4847]: Create Deploy task:
+taskName: MR3
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\feedExRate.cmd
+executeFileName: feedExRate.cmd
+startTime: 18:34:11
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:41:20.4847]: Create Deploy task:
+taskName: MR2
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\Dds12.exe
+executeFileName: Dds12.exe
+startTime: 15:33:19
+endTime: 21:33:19
+port: 9101
+duration: 5
+isDoRestart: True
+
+[2015-06-11 18:41:20.4847]: Create Deploy task:
+taskName: MR1
+path: C:\oms-bin-rehearsal\MRTest-2015-06-11\SSM.exe
+executeFileName: SSM.exe
+startTime: 19:00:15
+endTime: 20:31:15
+port: 9090
+duration: 10
+isDoRestart: True
+
+[2015-06-11 18:41:20.4857]: schedule for start MR2 is expired
+[2015-06-11 18:41:20.4857]: schedule for start MR3 is expired
+[2015-06-11 18:41:20.4647]: Program starts successfully
+[2015-06-11 18:41:20.4867]: MR1 set start up timer at: 2015-06-11 19:00:15
+[2015-06-11 18:41:20.4867]: MR1 set shut down timer at: 2015-06-11 20:31:15
+[2015-06-11 18:41:20.4867]: MR2 set shut down timer at: 2015-06-11 21:33:19
+[2015-06-11 18:41:20.4897]: state changed to: DeployedState
+[2015-06-11 18:41:33.6437]: MR2 shut down successfully
+[2015-06-11 18:41:34.7287]: MR2 Executed successfully 
+[2015-06-11 18:41:36.0897]: MR3 Executed successfully 
+[2015-06-11 18:41:36.0997]: state changed to: DeployedState
+[2015-06-11 19:00:16.1097]: MR1 shut down successfully
+[2015-06-11 19:00:17.9647]: MR1 Executed successfully 
+[2015-06-11 19:00:17.9747]: state changed to: DoingMRState
+[2015-06-11 20:31:15.7495]: MR1 shut down successfully
+[2015-06-11 21:33:19.5035]: MR2 shut down successfully
+[2015-06-11 21:33:20.4935]: state changed to: FinishedMRState
+[2015-06-12 09:55:06.6445]: Program starts successfully
+[2015-06-12 09:57:31.1115]: state changed to: FinishedMRState
+[2015-06-12 10:01:49.5585]: Program starts successfully
+[2015-06-12 10:02:48.6255]: state changed to: FinishedMRState
+[2015-06-12 10:08:47.7195]: Program starts successfully
+[2015-06-12 10:08:58.0885]: state changed to: FinishedMRState
+[2015-06-12 10:14:10.2525]: deploy started
+[2015-06-12 10:14:10.4055]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:14:11.0285]: unzip MR package successfully
+[2015-06-12 10:14:11.0915]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\1cdds.cmd
+executeFileName: 1cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:14:11.1845]: D1 Executed failed 
+[2015-06-12 10:14:11.5585]: ERROR> System.ComponentModel.Win32Exception: The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:14:11.5585]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:14:11.5585]: state changed to: DeployErrorState
+[2015-06-12 10:22:03.8275]: Program starts successfully
+[2015-06-12 10:22:13.0185]: deploy started
+[2015-06-12 10:22:13.0215]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:22:13.1045]: unzip MR package successfully
+[2015-06-12 10:22:13.1085]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\1cdds.cmd
+executeFileName: 1cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:22:13.1105]: D1 Executed failed 
+[2015-06-12 10:22:13.1145]: ERROR> System.ComponentModel.Win32Exception: The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:22:13.1145]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:22:13.1145]: state changed to: DeployErrorState
+[2015-06-12 10:31:40.7365]: Program starts successfully
+[2015-06-12 10:31:49.9055]: deploy started
+[2015-06-12 10:31:49.9085]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:31:49.9785]: unzip MR package successfully
+[2015-06-12 10:31:49.9825]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:31:50.1015]: D1 Executed failed 
+[2015-06-12 10:31:50.1055]: ERROR> System.ComponentModel.Win32Exception: %1 is not a valid Win32 application
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:31:50.1055]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:31:50.1065]: state changed to: DeployErrorState
+[2015-06-12 10:32:47.0915]: deploy started
+[2015-06-12 10:32:47.0925]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:32:47.1275]: unzip MR package successfully
+[2015-06-12 10:32:47.1285]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:32:47.1335]: D1 Executed failed 
+[2015-06-12 10:32:47.1415]: ERROR> System.ComponentModel.Win32Exception: %1 is not a valid Win32 application
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:32:47.1415]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:32:47.1415]: state changed to: DeployErrorState
+[2015-06-12 10:32:49.6995]: deploy started
+[2015-06-12 10:32:49.6995]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:32:49.6995]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:32:49.7055]: D1 Executed failed 
+[2015-06-12 10:32:49.7055]: ERROR> System.ComponentModel.Win32Exception: %1 is not a valid Win32 application
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:32:49.7055]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:32:49.7055]: state changed to: DeployErrorState
+[2015-06-12 10:32:55.5605]: Program starts successfully
+[2015-06-12 10:33:03.5975]: deploy started
+[2015-06-12 10:33:03.5995]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:33:03.6695]: unzip MR package successfully
+[2015-06-12 10:33:03.6735]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:33:03.6865]: D1 Executed failed 
+[2015-06-12 10:33:03.6905]: ERROR> System.ComponentModel.Win32Exception: %1 is not a valid Win32 application
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:33:03.6905]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:33:03.6905]: state changed to: DeployErrorState
+[2015-06-12 10:37:33.7635]: deploy started
+[2015-06-12 10:37:33.7645]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:37:33.8005]: unzip MR package successfully
+[2015-06-12 10:37:33.8005]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:37:33.8055]: D1 Executed failed 
+[2015-06-12 10:37:33.8065]: ERROR> System.ComponentModel.Win32Exception: %1 is not a valid Win32 application
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:37:33.8065]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:37:33.8065]: state changed to: DeployErrorState
+[2015-06-12 10:37:51.3945]: deploy started
+[2015-06-12 10:37:51.3945]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:37:51.3945]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:37:51.3995]: D1 Executed failed 
+[2015-06-12 10:37:51.3995]: ERROR> System.ComponentModel.Win32Exception: %1 is not a valid Win32 application
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:37:51.3995]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:37:51.3995]: state changed to: DeployErrorState
+[2015-06-12 10:38:46.1165]: Program starts successfully
+[2015-06-12 10:39:38.2025]: Program starts successfully
+[2015-06-12 10:39:45.3055]: deploy started
+[2015-06-12 10:39:45.3055]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:39:45.3385]: unzip MR package successfully
+[2015-06-12 10:39:45.3425]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:39:45.3545]: D1 Executed failed 
+[2015-06-12 10:39:45.3585]: ERROR> System.ComponentModel.Win32Exception: %1 is not a valid Win32 application
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.DeployTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\DeployTask.cs:line 57
+[2015-06-12 10:39:45.3585]: deploy failed, do deploy tasks failed 
+[2015-06-12 10:39:45.3585]: state changed to: DeployErrorState
+[2015-06-12 10:41:17.1425]: deploy started
+[2015-06-12 10:41:17.1435]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:41:17.1965]: unzip MR package successfully
+[2015-06-12 10:41:17.1965]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:41:17.5385]: D1 Executed successfully 
+[2015-06-12 10:41:17.7195]: D1 Executed successfully 
+[2015-06-12 10:41:17.7475]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 09:30:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:41:17.7865]: schedule for start M1 is expired
+[2015-06-12 10:41:17.7925]: deploy successfully 
+[2015-06-12 10:41:17.8265]: state changed to: DeployedState
+[2015-06-12 10:42:31.4015]: Program starts successfully
+[2015-06-12 10:42:31.4355]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 09:30:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:42:31.4375]: schedule for start M1 is expired
+[2015-06-12 10:42:31.4405]: state changed to: DeployedState
+[2015-06-12 10:42:40.6625]: deploy started
+[2015-06-12 10:42:40.6625]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:42:40.7305]: unzip MR package successfully
+[2015-06-12 10:42:40.7305]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:42:50.2815]: D1 Executed successfully 
+[2015-06-12 10:42:50.3015]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:45:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:42:50.3025]: M1 set start up timer at: 2015-06-12 10:45:05
+[2015-06-12 10:42:50.3095]: deploy successfully 
+[2015-06-12 10:42:50.3165]: state changed to: DeployedState
+[2015-06-12 10:45:06.3025]: ERROR> System.ComponentModel.Win32Exception: The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.MRTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\MRTask.cs:line 134
+[2015-06-12 10:45:06.3025]: M1 Executed Failed!!! 
+[2015-06-12 10:45:06.3155]: state changed to: StartUpFailState
+[2015-06-12 10:47:12.8755]: Program starts successfully
+[2015-06-12 10:47:12.9115]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:45:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:47:12.9125]: schedule for start M1 is expired
+[2015-06-12 10:47:12.9155]: state changed to: DeployedState
+[2015-06-12 10:47:23.9735]: deploy started
+[2015-06-12 10:47:23.9735]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:47:24.0485]: unzip MR package successfully
+[2015-06-12 10:47:24.0495]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:47:24.2865]: D1 Executed successfully 
+[2015-06-12 10:47:24.2875]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:50:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:47:24.2975]: M1 set start up timer at: 2015-06-12 10:50:05
+[2015-06-12 10:47:24.3055]: deploy successfully 
+[2015-06-12 10:47:24.3055]: state changed to: DeployedState
+[2015-06-12 10:48:16.6215]: load infoPath: C:\Users\ianzou\Desktop\MR_2015-06-11.xml
+packagePath: C:\Users\ianzou\Desktop\MR-2015-06-12.zip
+[2015-06-12 10:50:07.1185]: M1 Executed successfully 
+[2015-06-12 10:50:07.1245]: state changed to: DoingMRState
+[2015-06-12 10:51:23.8255]: state changed to: FinishedMRState
+[2015-06-12 10:51:45.4145]: deploy started
+[2015-06-12 10:51:45.4145]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:51:45.5305]: ERROR> System.IO.IOException: The process cannot access the file 'C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.File.Create(String path)
+   at MRTools.ZipClass.UnZip(String zipfilepath, String unzippath) in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\ZipClass.cs:line 147
+   at MRTools.MainForm.unZip() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\MainForm.cs:line 201
+[2015-06-12 10:51:45.5305]: deploy failed, Unzip Failed 
+[2015-06-12 10:51:45.5305]: state changed to: DeployErrorState
+[2015-06-12 10:52:05.6525]: deploy started
+[2015-06-12 10:52:05.6525]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:52:05.6525]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:52:05.8235]: D1 Executed successfully 
+[2015-06-12 10:52:05.8995]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:52:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:52:05.8995]: schedule for start M1 is expired
+[2015-06-12 10:52:05.8995]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 10:52:05.9085]: deploy successfully 
+[2015-06-12 10:52:05.9155]: state changed to: DeployedState
+[2015-06-12 10:52:18.5675]: M1 shut down successfully
+[2015-06-12 10:52:19.5755]: deploy started
+[2015-06-12 10:52:19.5755]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:52:19.6145]: unzip MR package successfully
+[2015-06-12 10:52:19.6145]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:52:19.7625]: D1 Executed successfully 
+[2015-06-12 10:52:19.7645]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:52:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:52:19.7645]: schedule for start M1 is expired
+[2015-06-12 10:52:19.7645]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 10:52:19.7705]: deploy successfully 
+[2015-06-12 10:52:19.7765]: state changed to: DeployedState
+[2015-06-12 10:52:39.3155]: M1 shut down successfully
+[2015-06-12 10:52:40.3205]: deploy started
+[2015-06-12 10:52:40.3205]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:52:40.3205]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:52:40.3725]: D1 Executed successfully 
+[2015-06-12 10:52:40.3775]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:52:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:52:40.3775]: schedule for start M1 is expired
+[2015-06-12 10:52:40.3775]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 10:52:40.3775]: deploy successfully 
+[2015-06-12 10:52:40.3825]: state changed to: DeployedState
+[2015-06-12 10:52:49.7525]: M1 shut down successfully
+[2015-06-12 10:52:50.7595]: deploy started
+[2015-06-12 10:52:50.7595]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:52:50.7965]: unzip MR package successfully
+[2015-06-12 10:52:50.7975]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:52:51.0035]: D1 Executed successfully 
+[2015-06-12 10:52:51.0065]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:54:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:52:51.0065]: M1 set start up timer at: 2015-06-12 10:54:05
+[2015-06-12 10:52:51.0065]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 10:52:51.0095]: deploy successfully 
+[2015-06-12 10:52:51.0245]: state changed to: DeployedState
+[2015-06-12 10:54:05.0235]: M1 shut down successfully
+[2015-06-12 10:54:06.0255]: ERROR> System.ComponentModel.Win32Exception: The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.MRTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\MRTask.cs:line 134
+[2015-06-12 10:54:06.0255]: M1 Executed Failed!!! 
+[2015-06-12 10:54:06.0375]: state changed to: StartUpFailState
+[2015-06-12 10:55:01.2725]: M1 shut down successfully
+[2015-06-12 10:55:02.2735]: ERROR> System.ComponentModel.Win32Exception: The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.MRTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\MRTask.cs:line 134
+[2015-06-12 10:55:02.2735]: M1 Executed Failed!!! 
+[2015-06-12 10:55:02.2855]: state changed to: StartUpFailState
+[2015-06-12 10:57:56.3105]: Program starts successfully
+[2015-06-12 10:57:56.3555]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:54:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:57:56.3565]: schedule for start M1 is expired
+[2015-06-12 10:57:56.3565]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 10:57:56.3605]: state changed to: DeployedState
+[2015-06-12 10:58:09.3615]: M1 shut down successfully
+[2015-06-12 10:58:10.3635]: deploy started
+[2015-06-12 10:58:10.3645]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 10:58:10.4375]: unzip MR package successfully
+[2015-06-12 10:58:10.4385]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 10:58:10.6055]: D1 Executed successfully 
+[2015-06-12 10:58:10.6065]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:58:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 10:58:10.6065]: schedule for start M1 is expired
+[2015-06-12 10:58:10.6065]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 10:58:10.6105]: deploy successfully 
+[2015-06-12 10:58:10.6165]: state changed to: DeployedState
+[2015-06-12 10:58:22.0715]: M1 shut down successfully
+[2015-06-12 10:58:23.3155]: M1 Executed successfully 
+[2015-06-12 10:58:23.3265]: state changed to: DoingMRState
+[2015-06-12 11:06:35.3215]: M1 shut down successfully
+[2015-06-12 11:06:36.3215]: state changed to: FinishedMRState
+[2015-06-12 11:19:41.1445]: Program starts successfully
+[2015-06-12 11:19:41.1925]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 10:58:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 11:19:41.1945]: schedule for start M1 is expired
+[2015-06-12 11:19:41.1965]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 11:19:41.2025]: state changed to: DeployedState
+[2015-06-12 11:19:54.2405]: M1 shut down successfully
+[2015-06-12 11:19:55.2465]: ERROR> System.ComponentModel.Win32Exception: The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.MRTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\MRTask.cs:line 134
+[2015-06-12 11:19:55.2465]: M1 Executed Failed!!! 
+[2015-06-12 11:19:55.2585]: state changed to: StartUpFailState
+[2015-06-12 11:21:56.0885]: M1 shut down successfully
+[2015-06-12 11:21:57.0895]: ERROR> System.ComponentModel.Win32Exception: The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at MRTools.MRTask.doStart() in C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\MRTask.cs:line 134
+[2015-06-12 11:21:57.0895]: M1 Executed Failed!!! 
+[2015-06-12 11:21:57.1015]: state changed to: StartUpFailState
+[2015-06-12 11:21:59.7505]: M1 shut down successfully
+[2015-06-12 11:22:00.7575]: deploy started
+[2015-06-12 11:22:00.7575]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 11:22:00.8255]: unzip MR package successfully
+[2015-06-12 11:22:00.8295]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 11:22:00.9035]: D1 Executed successfully 
+[2015-06-12 11:22:00.9055]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 11:52:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 11:22:00.9055]: M1 set start up timer at: 2015-06-12 11:52:05
+[2015-06-12 11:22:00.9055]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 11:22:00.9105]: deploy successfully 
+[2015-06-12 11:22:00.9165]: state changed to: DeployedState
+[2015-06-12 11:40:47.3145]: Program starts successfully
+[2015-06-12 11:40:47.3405]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 11:52:05
+endTime: 11:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 11:40:47.3565]: M1 set start up timer at: 2015-06-12 11:52:05
+[2015-06-12 11:40:47.3565]: M1 set shut down timer at: 2015-06-12 11:55:05
+[2015-06-12 11:40:47.3565]: state changed to: DeployedState
+[2015-06-12 11:52:05.3845]: M1 shut down successfully
+[2015-06-12 11:52:06.8485]: M1 Executed successfully 
+[2015-06-12 11:52:06.8595]: state changed to: DoingMRState
+[2015-06-12 11:55:05.3635]: M1 shut down successfully
+[2015-06-12 11:55:06.3625]: state changed to: FinishedMRState
+[2015-06-12 12:31:08.2975]: Program starts successfully
+[2015-06-12 12:31:08.3165]: state changed to: FinishedMRState
+[2015-06-12 12:31:17.1525]: deploy started
+[2015-06-12 12:31:17.1525]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 12:31:17.2185]: unzip MR package successfully
+[2015-06-12 12:31:17.2235]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 12:31:17.5105]: D1 Executed successfully 
+[2015-06-12 12:31:17.5185]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 12:31:17.5245]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 12:31:17.5255]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 12:31:43.1885]: Program starts successfully
+[2015-06-12 12:31:43.3365]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 12:31:43.3645]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 12:31:43.3645]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 12:32:59.3035]: Program starts successfully
+[2015-06-12 12:32:59.3065]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 12:32:59.3125]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 12:32:59.3125]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 12:33:26.5325]: Program starts successfully
+[2015-06-12 12:33:26.5895]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 12:33:26.5995]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 12:33:26.5995]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 12:33:26.5995]: state changed to: DeployedState
+[2015-06-12 12:33:56.1595]: M1 shut down successfully
+[2015-06-12 12:33:57.4315]: M1 Executed successfully 
+[2015-06-12 12:33:57.4635]: M1 shut down successfully
+[2015-06-12 12:33:58.4655]: deploy started
+[2015-06-12 12:33:58.4675]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 12:33:58.5505]: unzip MR package successfully
+[2015-06-12 12:33:58.5515]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 12:33:58.7795]: D1 Executed successfully 
+[2015-06-12 12:33:58.7815]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 12:33:58.7815]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 12:33:58.7815]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 12:33:58.7815]: deploy successfully 
+[2015-06-12 12:33:58.7885]: state changed to: DeployedState
+[2015-06-12 13:35:44.5965]: Program starts successfully
+[2015-06-12 13:35:44.6475]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:35:44.6885]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:35:44.6885]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:35:44.6885]: state changed to: DoingMRState
+[2015-06-12 13:35:44.6885]: state changed to: DeployedState
+[2015-06-12 13:35:54.1505]: M1 shut down successfully
+[2015-06-12 13:35:55.5675]: M1 Executed successfully 
+[2015-06-12 13:35:55.6045]: M1 shut down successfully
+[2015-06-12 13:35:56.6075]: deploy started
+[2015-06-12 13:35:56.6085]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 13:35:56.6825]: unzip MR package successfully
+[2015-06-12 13:35:56.6845]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 13:35:56.9215]: D1 Executed successfully 
+[2015-06-12 13:35:56.9235]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:35:56.9235]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:35:56.9235]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:35:56.9235]: deploy successfully 
+[2015-06-12 13:35:56.9305]: state changed to: DeployedState
+[2015-06-12 13:39:54.2008]: Program starts successfully
+[2015-06-12 13:39:54.2008]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:39:54.2008]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:39:54.2018]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:40:11.8941]: state changed to: DoingMRState
+[2015-06-12 13:40:12.6303]: state changed to: DeployedState
+[2015-06-12 13:40:23.2632]: M1 shut down successfully
+[2015-06-12 13:40:24.4021]: M1 Executed successfully 
+[2015-06-12 13:40:24.4361]: M1 shut down successfully
+[2015-06-12 13:41:22.1824]: Program starts successfully
+[2015-06-12 13:41:22.3346]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:41:22.3416]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:41:22.3416]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:41:22.3416]: state changed to: DoingMRState
+[2015-06-12 13:41:22.3416]: state changed to: DeployedState
+[2015-06-12 13:41:30.0149]: M1 shut down successfully
+[2015-06-12 13:41:31.0886]: M1 Executed successfully 
+[2015-06-12 13:41:31.1246]: M1 shut down successfully
+[2015-06-12 13:41:32.1292]: deploy started
+[2015-06-12 13:41:32.1323]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 13:41:32.2084]: unzip MR package successfully
+[2015-06-12 13:41:32.2104]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 13:41:32.4538]: D1 Executed successfully 
+[2015-06-12 13:41:32.4568]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:41:32.4568]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:41:32.4568]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:41:32.4568]: deploy successfully 
+[2015-06-12 13:41:32.4618]: state changed to: DeployedState
+[2015-06-12 13:44:30.5446]: Program starts successfully
+[2015-06-12 13:44:30.6017]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:44:30.6037]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:44:30.6047]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:44:43.3803]: Program starts successfully
+[2015-06-12 13:44:43.4173]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:44:43.4203]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:44:43.4203]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:44:46.7573]: state changed to: DoingMRState
+[2015-06-12 13:44:48.5544]: state changed to: DeployedState
+[2015-06-12 13:44:59.2458]: M1 shut down successfully
+[2015-06-12 13:45:00.3965]: M1 Executed successfully 
+[2015-06-12 13:45:00.4345]: M1 shut down successfully
+[2015-06-12 13:45:01.4381]: deploy started
+[2015-06-12 13:45:01.4412]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 13:45:01.5352]: unzip MR package successfully
+[2015-06-12 13:45:01.5372]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 13:45:01.8774]: D1 Executed successfully 
+[2015-06-12 13:45:01.8794]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:45:01.8794]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:45:01.8794]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:45:14.8052]: deploy successfully 
+[2015-06-12 13:46:48.8125]: Program starts successfully
+[2015-06-12 13:46:55.6947]: deploy started
+[2015-06-12 13:46:55.6977]: create folder successfully, path: C:/oms-bin-rehearsal/MR-2015-06-12
+[2015-06-12 13:46:55.7687]: unzip MR package successfully
+[2015-06-12 13:46:55.7727]: Create Deploy task:
+taskName: D1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\cdds.cmd
+executeFileName: cdds.cmd
+sequence: 1
+executeDuration: 1
+
+[2015-06-12 13:46:56.0819]: D1 Executed successfully 
+[2015-06-12 13:46:56.0899]: Create Deploy task:
+taskName: M1
+path: C:\oms-bin-rehearsal\MR-2015-06-12\CDDS.exe
+executeFileName: CDDS.exe
+startTime: 14:52:05
+endTime: 14:55:05
+port: 
+duration: 10
+isDoRestart: True
+
+[2015-06-12 13:46:56.0899]: M1 set start up timer at: 2015-06-12 14:52:05
+[2015-06-12 13:46:56.0899]: M1 set shut down timer at: 2015-06-12 14:55:05
+[2015-06-12 13:46:56.0909]: deploy successfully 
+[2015-06-12 13:46:56.0969]: state changed to: DeployedState
+[2015-06-12 13:47:38.1173]: state changed to: DoingMRState

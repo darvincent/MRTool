@@ -1,0 +1,14 @@
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\bin\Debug\MRTools.exe
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\bin\Debug\MRTools.pdb
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.MainForm.resources
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.Properties.Resources.resources
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.csproj.GenerateResource.Cache
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.exe
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.pdb
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.csprojResolveAssemblyReference.cache
+c:\users\ianzou\documents\visual studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.MakeMRFiles.resources
+C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.ActDeployTask.resources
+C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.ActMRTask.resources
+C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools\MRTools\obj\x86\Debug\MRTools.Load.resources
+C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools - 20150612\MRTools\obj\x86\Debug\MRTools.exe
+C:\Users\ianzou\Documents\Visual Studio 2010\Projects\MRTools - 20150612\MRTools\obj\x86\Debug\MRTools.pdb
